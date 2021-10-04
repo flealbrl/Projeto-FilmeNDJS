@@ -154,13 +154,15 @@ button.btn-btn-primary{
     margin-right: 9rem;
 }
 
-.boxFooter h1{
-    bottom: 0;
-    text-align: center;
+footer.boxFooter{
     background-color: rgba(224, 199, 246, 0.911);
+    border-radius: 2em 2em 2em 2em;
+    margin: 0rem 2rem 2rem 2rem;
     margin-top: 5rem;
     padding: 1rem;
-    border-radius: 2em 2em 0em 0em;
+}
+
+.boxFooter h1{
     font-size: 3rem;
     color: black;
     font-weight: 300;
