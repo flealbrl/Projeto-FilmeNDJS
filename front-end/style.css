@@ -6,6 +6,7 @@
     font-family: 'Fira Sans', sans-serif;
 }
 
+
 body{
     background: url('https://c4.wallpaperflare.com/wallpaper/920/588/52/synthwave-8-bit-cityscape-pixels-wallpaper-preview.jpg');
     background-repeat: no-repeat;
@@ -154,6 +155,8 @@ button.btn-btn-primary{
 }
 
 .boxFooter h1{
+    bottom: 0;
+    text-align: center;
     background-color: rgba(224, 199, 246, 0.911);
     margin-top: 5rem;
     padding: 1rem;
@@ -175,7 +178,6 @@ a.direct-git{
 .container {
     display: block;
     position: relative;
-    padding-left: 35px;
     margin-bottom: 12px;
     cursor: pointer;
     text-align: center;
